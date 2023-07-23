@@ -1,1 +1,1 @@
-# Delivery-card-patterns [![Java CI with Gradle](https://github.com/Tor419/Delivery-card-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Tor419/Delivery-card-patterns/actions/workflows/gradle.yml)
+# patterns_Allure [![Java CI with Gradle](https://github.com/Tor419/patterns_Allure/actions/workflows/gradle.yml/badge.svg)](https://github.com/Tor419/patterns_Allure/actions/workflows/gradle.yml)
